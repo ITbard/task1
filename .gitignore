@@ -1,6 +1,5 @@
-# _old, _backup добавил в игнор названиями файлов
 tmp/
 .DS_Store
-index.html_old
-NeuroStartUp.png_backup
+*_old
+*_backup
 Thumbs.db
